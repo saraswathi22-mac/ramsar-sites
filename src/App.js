@@ -1,7 +1,7 @@
 import { Route, Routes, useLocation } from "react-router-dom";
 import WorldHeritageSite from "./components/WorldHeritageSite/WorldHeritageSite";
 import WorldHeritageSites from "./components/WorldHeritageSites/WorldHeritageSites";
-import "./App.css";
+import "./app.css";
 import { AnimatePresence } from "framer-motion";
 import { Home } from "./components/pages/Home";
 import { About } from "./components/pages/About";
